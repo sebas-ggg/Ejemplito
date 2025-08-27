@@ -1,0 +1,1 @@
+print("Ejemplito para trabajo de campo")
